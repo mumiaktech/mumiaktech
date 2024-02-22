@@ -23,7 +23,3 @@ If you share my enthusiasm for **Web Development** and **Artificial Intelligence
 **I'm passionate about fostering open-source contributions. Let's join forces and create together!**
 
 I am currently seeking opportunities to advance web development skills, delve into AI, and contribute to open-source initiatives.
-
-### 💻 Projects
-
-| Project Name      | Description |
