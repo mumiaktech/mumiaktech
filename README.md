@@ -18,7 +18,7 @@ I thrive on challenges and am currently exploring new frontiers by delving into 
 
 If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect with you! Let's collaborate and explore how we can shape the digital and intelligent future together.
 
-***The biginning is not as important as the end.***
+***The beginning is not as important as the end.***
 
 **I'm passionate about fostering open-source contributions. Let's join forces and create together!**
 
