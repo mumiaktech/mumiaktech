@@ -2,22 +2,23 @@
 
 ## About Me
 
-I am **Mitchel Mugono**, a software development enthusiast. I am interested in **Full-Stack Web Development, Information Technology Support, Graphic Design, Information Security, Cloud Computing and Artificial Intelligence**, I'm currently immersed in learning **Python, JavaScript and French** to further enhance my skills ⚡
+I am **Mitchel Mugono**, a passionate **Full Stack Developer** with a strong interest in **Front-End, Back-End Development, Graphic Design, Data Science, Machine Learning, and Artificial Intelligence**. I'm currently learning **Python, JavaScript**, and exploring new horizons in **Data Science** to enhance my skills ⚡.
 
 I am deeply committed to the journey of ***continuous learning***, the art of ***innovative creation***, and the joy of ***meaningful contribution*** to impactful real-world projects.
 
-## Developer | Designer | Cloud Computing Enthusiast
+## Full Stack Developer | Designer | Aspiring Data Scientist
 
 ## 🛠 Technical Skills
 
-My journey into the realm of technology and web solutions began with a genuine curiosity for how coding and development could reshape online experiences and functionalities. Throughout my academic journey, I have honed my skills in **Python, HTML, CSS, JavaScript**, and various web development frameworks, including **Django, React, Bootstrap**. These tools have empowered me to create engaging and responsive websites, bringing ideas to life on the digital frontier.
+My journey into technology and web development began with a genuine curiosity about how coding could reshape online experiences. Throughout my academic journey, I have honed my skills in **Python, HTML, CSS, JavaScript**, and web frameworks like **Django, Bootstrap**, which have enabled me to create engaging and responsive websites.
 
-Motivated by a passion for continuous learning, I am also expanding my expertise in back-end technologies such as **APIs**. This allows me to build robust and scalable web applications, contributing to a seamless user experience. Additionally, my fascination with Artificial Intelligence has led me to explore machine learning concepts and frameworks, adding a layer of intelligence to my web development projects.
+Motivated by my passion for continuous learning, I am expanding my expertise in back-end technologies such as **APIs** and exploring **Data Science**. My fascination with **Machine Learning** has also led me to dive into concepts and frameworks that will bring intelligence and automation to my future projects.
 
-I thrive on challenges and am currently exploring new frontiers by delving into the world of cloud technologies, aiming to leverage platforms like **AWS** and **Azure** for enhanced scalability and efficiency.
+I thrive on challenges and enjoy building robust, scalable web applications, as well as exploring how design can enhance user experiences. 
 
-If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect with you! Let's collaborate and explore how we can shape the digital and intelligent future together.
+If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect! Let's collaborate and shape the digital future together.
 
 ***The beginning is not as important as the end.***
 
-I am currently seeking opportunities to advance web development skills, design, delve into web3, and contribute to open-source initiatives.
+I am currently seeking opportunities to advance my web development skills, dive deeper into **Machine Learning** and **AI**, and contribute to open-source initiatives.
+
