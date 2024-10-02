@@ -6,7 +6,7 @@ I am **Mitchel Mugono**, a passionate **Full Stack Developer** with a strong int
 
 I am deeply committed to the journey of ***continuous learning***, the art of ***innovative creation***, and the joy of ***meaningful contribution*** to impactful real-world projects.
 
-## Full Stack Developer | Designer | Aspiring Data Scientist
+## Back End Developer | Graphic Designer | Aspiring Software Engineer | Data Enthusiast
 
 ## 🛠 Technical Skills
 
