@@ -18,10 +18,6 @@ My journey into technology began with a genuine curiosity about how computers wo
 
 Driven by my passion for continuous learning, I am expanding my expertise in backend technologies like **APIs**, **Data Science**, and **Machine Learning**. I thrive on challenges and enjoy building scalable web applications that solve real-world problems.
 
-## 📊 GitHub Stats
-
-![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumiaktech&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 💼 Projects
 
 Here are some of the projects I have worked on:
@@ -37,6 +33,10 @@ Here are some of the projects I have worked on:
 
 3. **[Lushlyrics](https://github.com/mumiaktech/Lushlyrics)**  
    Forked repo for training on python, django.
+
+## 📊 GitHub Stats
+
+![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumiaktech&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 Feel free to explore my repositories for more projects, code samples, and contributions!
 
