@@ -1,24 +1,47 @@
-# Hi there, welcome to my profile
+# Hi there, welcome to my profile 👋
 
 ## About Me
 
-I am **Mitchel Mugono**, a passionate **Full Stack Developer** with a strong interest in **Front-End, Back-End Development, Graphic Design, Data Science, Machine Learning, and Artificial Intelligence**. I'm currently learning **Python, JavaScript**, and exploring new horizons in **Data Science** to enhance my skills ⚡.
+I am **Mitchel Mugono**, a passionate **Backend Developer** with a strong interest in **Front-End and Back-End Development**, **Graphic Design**, **Machine Learning**, and **Artificial Intelligence**. Currently, I'm learning **Python, JavaScript, PHP**, and exploring new horizons in **Application Programming Development** to enhance my skills.
 
-I am deeply committed to the journey of ***continuous learning***, the art of ***innovative creation***, and the joy of ***meaningful contribution*** to impactful real-world projects.
+I am deeply committed to ***continuous learning***, the art of ***innovative creation***, and the joy of ***meaningful contributions*** to impactful real-world projects.
 
-## Back End Developer | Graphic Designer | Aspiring Software Engineer | Data Enthusiast
+## Areas of Expertise
+
+- **Backend Development** | **Graphic Design**
+- **Technologies:** Python, JavaScript, PHP, Django, Flask, SQL, APIs, HTML, CSS
+- **Interests:** Machine Learning, Artificial Intelligence, Web Development, Data Science, Software Engineering
 
 ## 🛠 Technical Skills
 
-My journey into technology and web development began with a genuine curiosity about how coding could reshape online experiences. Throughout my academic journey, I have honed my skills in **Python, HTML, CSS, JavaScript**, and web frameworks like **Django, Bootstrap**, which have enabled me to create engaging and responsive websites.
+My journey into technology began with a genuine curiosity about how computers work. Over time, I've honed my skills in **Python**, **HTML**, **CSS**, **JavaScript**, and frameworks like **Django** and **Bootstrap**. This has empowered me to build engaging and responsive websites.
 
-Motivated by my passion for continuous learning, I am expanding my expertise in back-end technologies such as **APIs** and exploring **Data Science**. My fascination with **Machine Learning** has also led me to dive into concepts and frameworks that will bring intelligence and automation to my future projects.
+Driven by my passion for continuous learning, I am expanding my expertise in backend technologies like **APIs**, **Data Science**, and **Machine Learning**. I thrive on challenges and enjoy building scalable web applications that solve real-world problems.
 
-I thrive on challenges and enjoy building robust, scalable web applications, as well as exploring how design can enhance user experiences. 
+## 📊 GitHub Stats
 
-If you share my enthusiasm for **Web Development** and **Artificial Intelligence**, or if you have exciting opportunities to discuss, I'd love to connect! Let's collaborate and shape the digital future together.
+![Mitchel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mumiaktech&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 💼 Projects
+
+Here are some of the projects I have worked on:
+
+1. **[BrazBot](https://github.com/mumiaktech/BrazBot)**  
+   Telegram bot built using python that educates on things to do with coffee.
+
+2. **[InstructlyLMS](https://github.com/mumiaktech/InstructlyLMS)**  
+   LMS built using python.
+
+3. **[MumiakGuides](https://github.com/mumiaktech/MumiakGuides)**  
+   Listing site builf using python.
+
+3. **[Lushlyrics](https://github.com/mumiaktech/Lushlyrics)**  
+   Forked repo for training on python, django.
+
+Feel free to explore my repositories for more projects, code samples, and contributions!
+
+## 🤝 Let's Connect
+
+If you're interested in web development, **Machine Learning**, **AI**, or anything related to tech, I'd love to connect! Let’s collaborate and innovate together to shape the future of technology.
 
 ***The beginning is not as important as the end.***
-
-I am currently seeking opportunities to advance my web development skills, dive deeper into **Machine Learning** and **AI**, and contribute to open-source initiatives.
-
